@@ -6,8 +6,6 @@
 <title>NOCTARA — Where Darkness Meets Perfection</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Tenor+Sans&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+Arabic:wght@300;400&display=swap" rel="stylesheet">
 <style>
-:root {
-  --black: #070707;
   --deep: #0d0b0a;
   --charcoal: #181411;
   --charcoal2: #221e1a;
